@@ -1,0 +1,5 @@
+sentence-transformers
+psycopg2
+PyPDF2
+markdown
+langchain
